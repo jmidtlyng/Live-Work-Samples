@@ -10,7 +10,7 @@ Backend geographical distance search and mailer obscuring user email. Some fun U
 
 [QPR Checkout](http://skunk.qprinstitute.com/store)
 
-Custom single page checkout using the new PayPal API in the backend with PHP.
+Custom single page checkout using the new PayPal API with PHP.
 1. Add products to cart
 2. Select "View Cart"
 3. Edit your order or continue

@@ -1,14 +1,19 @@
 # Portfolio
 Live work samples:
 
-[Duck HuntAR](https://github.com/jmidtlyng/duckHuntar)
+[QPR Find an Instructor](https://qprinstitute.com)
+Backend geographical distance search and mailer obscuring user email. Some fun UI stuff too.
+1. Select "In-Person Training" from the site's navigation.
+2. Select "Find an Instructor".
+3. Follow instructions on resulting tool.
 
-[Alessa's art portfolio](https://github.com/jmidtlyng/alessa)
+[QPR Checkout](http://skunk.qprinstitute.com/store)
+Devlopment of hand-made single page checkout using the new PayPal API in the backend with PHP.
+1. Add products to cart
+2. Select "View Cart"
+3. Edit your order or continue
+4. Checkout using PayPal Sandbox
+   - PayPal Sandbox's test VISA card number is 4111 1111 1111 1111
 
-[Fire Mountain Gems express create account desktop/mobile page](https://secure.firemountaingems.com/account/create)
-
-Feel free to check out any in-progress projects or prototypes in [my repositories tab](https://github.com/jmidtlyng?tab=repositories).
-
-My current pet project is [anyCity](https://github.com/jmidtlyng/anyCity).
-
-I maintain my git repos in private BitBucket accounts then update GitHub to demo work.
+[QPR Specialized Training](https://qprinstitute.com/professional-training)
+User experience concept applied to responsive product list.

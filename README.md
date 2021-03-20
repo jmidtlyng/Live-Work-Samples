@@ -1,6 +1,9 @@
 # Portfolio
 Live work samples:
 
+[QPR Institute](https://qprinstitute.com)
+Craft CMS site with custom Craft plugins for e-commerce and a simple LMS attached to Learning Locker for detailed tracking and reporting.
+
 [QPR Find an Instructor](https://qprinstitute.com)
 
 Backend geographical distance search and mailer obscuring user email. Some fun UI stuff too.

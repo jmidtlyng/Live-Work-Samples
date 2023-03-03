@@ -20,3 +20,7 @@ Custom single page checkout using the new PayPal API with PHP.
 [White Ash Flies](https://whiteashflies.com/)
 
 Custom Craft CMS plugin to load audio from RSS feed as selected by curator. This saves on storage and allows tracking for any broadcasting tool. Use of Plyr for audio and video.
+
+[Rust: TJD a flexible CMS](https://github.com/jmidtlyng/tjd)
+
+Flexible CMS written in Rust. Uses memory instead of a database. Goal to serve each small bit of content using HTMX. Test driven development.
